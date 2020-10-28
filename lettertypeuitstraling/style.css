@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Fredoka+One&family=Graduate&family=Hanalei+Fill&family=IBM+Plex+Mono:wght@200&family=Libre+Baskerville&family=Monoton&family=Noto+Sans&family=Parisienne&family=Pirata+One&family=Ruthie&family=Tangerine:wght@700&display=swap');
+body{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+div{
+	padding: 100px;
+}
+
+.Licht{
+	background-color: #C4EDE9;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 30px;
+}
+
+.antwerpen{
+	background-color: #152DB2;
+	color: #FFF;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 50px;
+}
+
+.kids{
+	background-color: #F9F923;
+	color: #0511D2;
+font-family: 'Emilys Candy', cursive;
+font-size: 50px;
+}
+
+.huwelijk {
+	color: #D6AF35;
+	background-color: #000;
+	font-family: 'Ruthie', cursive;
+	font-size: 50px;
+	
+}
+
+.eighties{
+	background-color: #923FE6;
+	color: #D5FE04;
+	font-family: 'Monoton', cursive;
+	font-size: 50px;
+
+}
+
+.grunge{
+	background-color: #000;
+	color: red;
+	font-family: 'Pirata One', cursive;
+	font-size: 50px;
+	
+
+}
+
+.hond{
+	background-color: #DF0808;
+	color: #FFF;
+	font-family: 'Graduate', cursive;
+	font-size: 50px;
+}
+
+.fris{
+	background-color: #C79AF2;
+	color: #FFF;
+	font-family: 'Tangerine', cursive;
+	font-size: 50px;
+
+}
+.fisc{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 50px;
+}
+.sk8 {
+	background-color: #1C9B1E;
+
+	font-family: 'Hanalei Fill', sans-serif ;
+	font-size: 60px;
+	text-decoration-line: underline;
+}
+
